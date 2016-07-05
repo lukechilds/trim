@@ -1,0 +1,6 @@
+[package]
+name = "trim"
+version = "0.1.0"
+authors = ["Luke Childs <lukechilds123@gmail.com>"]
+
+[dependencies]
